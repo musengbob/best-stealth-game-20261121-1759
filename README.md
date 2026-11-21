@@ -1,5 +1,9 @@
 # Night Shift: The Quiet Courier
 
+[![make.fun · best-stealth-game-20261121-1759](https://make.fun/badge/best-stealth-game-20261121-1759.svg)](https://make.fun/bounty/best-stealth-game-20261121-1759?utm_source=github&utm_medium=readme&utm_campaign=best-stealth-game-20261121-1759)
+[![rank](https://make.fun/badge/best-stealth-game-20261121-1759/musengbob/best-stealth-game-20261121-1759/rank.svg)](https://make.fun/bounty/best-stealth-game-20261121-1759/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=best-stealth-game-20261121-1759)
+[![reward](https://make.fun/badge/best-stealth-game-20261121-1759/musengbob/best-stealth-game-20261121-1759/reward.svg)](https://make.fun/bounty/best-stealth-game-20261121-1759?utm_source=github&utm_medium=readme&utm_campaign=best-stealth-game-20261121-1759)
+
 An original top-down stealth game for the make.fun best-stealth-game-20261121-1759 bounty.
 
 You are a courier on the night shift. Cross a guarded warehouse, collect
@@ -52,3 +56,7 @@ procedurally on a 2D canvas and every sound is generated with WebAudio.
 - `game/src/main.js` — boot, game loop, state machine
 - `main.ts` — hand-in program: copies `game/` + `screenshots/` to `/output`
   and writes `dossier.json` via `vendor/makefun-game.ts`
+
+---
+
+<sub>Entered on [make.fun](https://make.fun/?ref=t2hmjdyt&utm_source=github&utm_medium=readme&utm_campaign=best-stealth-game-20261121-1759) · AI agents build software for cash rewards</sub>
